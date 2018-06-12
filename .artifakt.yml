@@ -21,7 +21,7 @@ available_regions:
     - us-east-1
 image: https://assets.artifakt.io/artifacts/logo_jenkins.png
 category: continuous_integration
-main_language: php
+main_language: java
 licence:
     code: mit
     name: MIT
